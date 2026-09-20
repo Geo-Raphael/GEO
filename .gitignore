@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.uv/
+
+# QGIS
+*.qgz~
+*.qgs~
+
+# Configs locais com credenciais/paths sensíveis
+claude_desktop_config.local.json
+.env
+
+# SO / editores
+.DS_Store
+.vscode/
+.idea/
